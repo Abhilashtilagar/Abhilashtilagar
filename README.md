@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashtilagar&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashtilagar" /> </p>
 
-- 🔭 I’m currently working on **Full stack project**
-
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning Full Stack web development 
 
 - 👯 I’m looking to collaborate on [Machine learning project](Solar Irridence Forcasting)
 
