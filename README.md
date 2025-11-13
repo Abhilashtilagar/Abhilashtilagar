@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ABHILASH TILAGAR</h1>
+<h1 align="center">Hey 👋, I'm ABHILASH TILAGAR</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashtilagar&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashtilagar" /> </p>
 
 - 🌱 I’m currently learning Full Stack web development 
 
-- 👯 I’m looking to collaborate on [Machine learning project](Solar Irridence Forcasting)
+- 👯 I’m looking to collaborate on [Machine learning projects]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhilashtilagar](https://github.com/Abhilashtilagar)
 
