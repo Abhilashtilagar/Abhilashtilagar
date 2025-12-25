@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Abhilash Tilagar
 
-🎓 **Computer Science & Engineering** | 🤖 **Machine Learning & AI Enthusiast** | 📍 **Belagavi, India**
+🎓 **Computer Science & Engineering** | 🤖 **Machine Learning & AI Enthusiast** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Machine+Learning+Developer;Machine+Learning+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-I'm a Computer Science student passionate about **Machine Learning**, **Computer Vision**, and **Web Development**. I enjoy building intelligent systems to solve real-world problems.
+I'm a Computer Science student passionate about **Machine Learning** and **Web Development**. I enjoy building intelligent systems to solve real-world problems.
 
 - 🔭 Currently working on **Machine Learning & AI projects**
 - 🌱 Learning **Deep Learning and advanced ML algorithms**
@@ -60,17 +60,50 @@ I'm a Computer Science student passionate about **Machine Learning**, **Computer
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
-
-
+<!-- Project 1 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px;">
+  <h3>🌍 Multilingual Speech Emotion Recognition</h3>
+  <p>
+    A machine learning system that detects human emotions from speech across multiple languages
+    using audio feature extraction and deep learning models.
+  </p>
+  <p><b>Tech:</b> Python, ML, Deep Learning, Librosa</p>
 </div>
 
+<!-- Project 2 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px;">
+  <h3>☀️ Solar Irradiance Forecasting</h3>
+  <p>
+    Time-series forecasting model to predict solar irradiance, helping optimize renewable energy
+    generation and grid efficiency.
+  </p>
+  <p><b>Tech:</b> Python, Time Series Analysis, ML</p>
+</div>
+
+<!-- Project 3 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px;">
+  <h3>🛣️ Pothole Detection</h3>
+  <p>
+    Computer vision–based system to automatically detect potholes from road images and videos
+    for smart city and road maintenance solutions.
+  </p>
+  <p><b>Tech:</b> Python, OpenCV, CNN</p>
+</div>
+
+<!-- Project 4 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px;">
+  <h3>📧 Insights Mail</h3>
+  <p>
+    An automated email system that generates and sends insightful summaries and reports
+    using data analysis and automation.
+  </p>
+  <p><b>Tech:</b> Python, Automation, APIs</p>
+</div>
+
+</div>
 ---
-
-
----
-
 
 ## 🎯 Current Focus Areas
 
@@ -85,7 +118,6 @@ class Abhilash:
             "Full Stack Development"
         ]
         self.interests = [
-            "Healthcare AI",
             "Safety Applications",
             "Web Development",
             "Open Source Contributing"
@@ -107,19 +139,9 @@ class Abhilash:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-shresti-976484280/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhitilagar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-tilagar-54519129b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhilashtilagar)
 
 
 </div>
 
----
-
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-</div>
