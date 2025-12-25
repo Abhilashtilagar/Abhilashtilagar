@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sagar Shresti
+# 👋 Hi, I'm Abhilash Tilagar
 
 🎓 **Computer Science & Engineering** | 🤖 **Machine Learning & AI Enthusiast** | 📍 **Belagavi, India**
 
