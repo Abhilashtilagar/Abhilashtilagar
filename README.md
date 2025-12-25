@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm ABHILASH TILAGAR</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<marquee align="center">A passionate full stack developer</marquee>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashtilagar&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashtilagar" /> </p>
 
